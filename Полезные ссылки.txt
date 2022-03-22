@@ -1,0 +1,8 @@
+https://caninclude.glitch.me/ - помещать теги друг в друга
+https://htmlreference.io/ - hnml референции
+https://cssreference.io/ - css референции
+https://jakearchibald.github.io/svgomg/
+https://html.spec.whatwg.org/multipage/sections.html#the-header-element
+https://validator.w3.org/nu/#textarea - валидатор
+https://codeguide.co/
+https://squoosh.app/
